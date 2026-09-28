@@ -1,0 +1,13 @@
+AI_HANDOFF.zip
+model/
+
+__pycache__/
+*.pyc
+
+venv/
+.venv/
+
+.env
+
+dataset/
+data/
