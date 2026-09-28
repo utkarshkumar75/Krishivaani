@@ -6,6 +6,14 @@ AI-powered agricultural assistance prototype developed for \*\*Smart India Hacka
 
 
 
+\## 🔗 Live Demo
+
+
+
+\[\*\*Open Krishi Vaani →\*\*](https://prakhar4844.github.io/New-Start/)
+
+
+
 \## Overview
 
 
